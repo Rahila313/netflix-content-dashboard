@@ -44,5 +44,5 @@ Netflix titles dataset (public source)
 ---
 
 ## Dashboard Preview
-/images/netflix-content-dashboard.png
+![Netflix Content Dashboard](images/netflix-content-dashboard.png)
 
