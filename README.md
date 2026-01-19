@@ -38,11 +38,6 @@ The goal of this project is to demonstrate **data visualization, KPI design, and
 
 ---
 
-## Dataset
-Netflix titles dataset (public source)
-
----
-
 ## Dashboard Preview
 ![Netflix Content Dashboard](images/netflix-content-dashboard.png)
 
