@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project presents an interactive **Netflix Content Dashboard** built in **Tableau**, designed to analyze Netflix’s catalog of movies and TV shows.
+This project presents a **Netflix Content Dashboard** built in **Tableau**, designed to analyze Netflix’s catalog of movies and TV shows.
 
 The dashboard provides a high-level overview of:
 - The total number of Netflix titles
