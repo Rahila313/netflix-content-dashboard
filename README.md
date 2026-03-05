@@ -29,3 +29,7 @@ Tools Used
 • Tableau Public
 • Data Visualization & Dashboard Design
 • Calculated Fields & KPIs
+
+## Dashboard Preview
+
+![Netflix Content Dashboard](images/netflix-content-dashboard.png)
