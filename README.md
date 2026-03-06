@@ -1,8 +1,3 @@
----
-title: "Netflix Content Dashboard"
-output: html_document
----
-
 # Netflix Content Dashboard
 
 ## Dashboard Preview
